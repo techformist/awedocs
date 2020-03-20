@@ -1,0 +1,16 @@
+{
+  "name": "awedocs",
+  "version": "0.0.1",
+  "description": "Awesome docs.",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/prashanth1k/repository-does-not-exist",
+  "author": "Prashanth Krishnamurthy",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.2"
+  }
+}
