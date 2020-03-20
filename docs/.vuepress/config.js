@@ -16,7 +16,7 @@ module.exports = {
         children: ["more"]
       }
     ],
-    repo: "prashanth1k/repository-does-not-exist",
+    repo: "techformist/awedocs",
     editLinks: true
   },
 

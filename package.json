@@ -7,7 +7,7 @@
     "build": "vuepress build docs"
   },
   "main": "index.js",
-  "repository": "https://github.com/prashanth1k/repository-does-not-exist",
+  "repository": "https://github.com/techformist/awedocs",
   "author": "Prashanth Krishnamurthy",
   "license": "MIT",
   "devDependencies": {
